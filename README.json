@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1000711946,
             "language": "Python",
-            "last_commit": "2026-08-24T11:56:04Z",
+            "last_commit": "2026-08-25T04:00:01Z",
             "owner": "vipshop",
             "repo": "cache-dit",
             "stars": 1257
@@ -49,14 +49,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2026.03",
-              "description": "🔥🔥🔥[OneComp] OneComp: One-Line Revolution for Generative AI Model Compression(@Fujitsu) [pdf] [OneCompression] ⭐️⭐️",
+              "title": "[OneCompression]",
+              "description": "🔥🔥🔥[OneComp] OneComp: One-Line Revolution for Generative AI Model Compression(@Fujitsu) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:59:06Z",
+                "last_commit": "2026-08-25T02:22:59Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
                 "stars": 424
@@ -64,14 +64,14 @@
             },
             {
               "node_type": "item",
-              "title": "2025.12",
-              "description": "🔥🔥[QEP] QEP: Quantization Error Propagation, NeurIPS 2025(@Fujitsu) [pdf] [OneCompression] ⭐️⭐️",
+              "title": "[OneCompression]",
+              "description": "🔥🔥[QEP] QEP: Quantization Error Propagation, NeurIPS 2025(@Fujitsu) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1196059417,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:59:06Z",
+                "last_commit": "2026-08-25T02:22:59Z",
                 "owner": "FujitsuResearch",
                 "repo": "OneCompression",
                 "stars": 424
@@ -79,7 +79,7 @@
             },
             {
               "node_type": "item",
-              "title": "[docs]",
+              "title": "hpcaitech/Open-Sora",
               "description": null,
               "children": [],
               "repo_info": {
@@ -89,7 +89,7 @@
                 "last_commit": "2026-04-09T01:52:40Z",
                 "owner": "hpcaitech",
                 "repo": "Open-Sora",
-                "stars": 29304
+                "stars": 29308
               }
             },
             {
@@ -104,7 +104,7 @@
                 "last_commit": "2026-04-09T01:52:40Z",
                 "owner": "hpcaitech",
                 "repo": "Open-Sora",
-                "stars": 29304
+                "stars": 29308
               }
             },
             {
@@ -139,8 +139,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI) [pdf] [DeepSeek-V2] ⭐️⭐️",
+              "title": "[DeepSeek-V2]",
+              "description": "🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -154,8 +154,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥🔥[YOCO] You Only Cache Once: Decoder-Decoder Architectures for Language Models(@Microsoft) [pdf] [unilm-YOCO] ⭐️⭐️",
+              "title": "[unilm-YOCO]",
+              "description": "🔥🔥[YOCO] You Only Cache Once: Decoder-Decoder Architectures for Language Models(@Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -176,10 +176,10 @@
                 "archived": false,
                 "id": 819733173,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:42:36Z",
+                "last_commit": "2026-08-25T05:00:04Z",
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6372
+                "stars": 6374
               }
             },
             {
@@ -191,16 +191,16 @@
                 "archived": false,
                 "id": 819733173,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:42:36Z",
+                "last_commit": "2026-08-25T05:00:04Z",
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6372
+                "stars": 6374
               }
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥🔥[FlashAttention-3] FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision(@TriDao etc) [pdf] [flash-attention] ⭐️⭐️",
+              "title": "[flash-attention]",
+              "description": "🔥🔥[FlashAttention-3] FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision(@TriDao etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -209,13 +209,13 @@
                 "last_commit": "2026-08-19T08:12:39Z",
                 "owner": "Dao-AILab",
                 "repo": "flash-attention",
-                "stars": 24774
+                "stars": 24777
               }
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥🔥[MInference 1.0] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft) [pdf] [MInference 1.0] ⭐️⭐️",
+              "title": "[MInference 1.0]",
+              "description": "🔥🔥[MInference 1.0] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -229,8 +229,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.11",
-              "description": "🔥🔥🔥[Star-Attention: 11x~ speedup] Star Attention: Efficient LLM Inference over Long Sequences(@NVIDIA) [pdf] [Star-Attention] ⭐️⭐️",
+              "title": "[Star-Attention]",
+              "description": "🔥🔥🔥[Star-Attention: 11x~ speedup] Star Attention: Efficient LLM Inference over Long Sequences(@NVIDIA) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -274,8 +274,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.01",
-              "description": "🔥🔥🔥 [MiniMax-Text-01] MiniMax-01: Scaling Foundation Models with Lightning Attention [report] [MiniMax-01] ⭐️⭐️",
+              "title": "[MiniMax-01]",
+              "description": "🔥🔥🔥 [MiniMax-Text-01] MiniMax-01: Scaling Foundation Models with Lightning Attention [report] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -289,8 +289,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.01",
-              "description": "🔥🔥🔥[DeepSeek-R1] DeepSeek-R1 Technical Report(@deepseek-ai) [pdf] [DeepSeek-R1] ⭐️⭐️",
+              "title": "[DeepSeek-R1]",
+              "description": "🔥🔥🔥[DeepSeek-R1] DeepSeek-R1 Technical Report(@deepseek-ai) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -299,7 +299,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92036
+                "stars": 92035
               }
             }
           ],
@@ -311,8 +311,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI) [pdf] [DeepSeek-V2] ⭐️⭐️",
+              "title": "[DeepSeek-V2]",
+              "description": "🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -356,8 +356,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.01",
-              "description": "🔥🔥🔥[DeepSeek-R1] DeepSeek-R1 Technical Report(@deepseek-ai) [pdf] [DeepSeek-R1] ⭐️⭐️",
+              "title": "[DeepSeek-R1]",
+              "description": "🔥🔥🔥[DeepSeek-R1] DeepSeek-R1 Technical Report(@deepseek-ai) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -366,13 +366,13 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92036
+                "stars": 92035
               }
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥🔥🔥[FlashMLA] DeepSeek FlashMLA(@deepseek-ai) ⚠️ [FlashMLA] ⭐️⭐️",
+              "title": "[FlashMLA]",
+              "description": "🔥🔥🔥[FlashMLA] DeepSeek FlashMLA(@deepseek-ai) ⚠️ ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -386,8 +386,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥🔥🔥[DualPipe] DeepSeek DualPipe(@deepseek-ai) ⚠️ [DualPipe] ⭐️⭐️",
+              "title": "[DualPipe]",
+              "description": "🔥🔥🔥[DualPipe] DeepSeek DualPipe(@deepseek-ai) ⚠️ ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -401,8 +401,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥🔥🔥[DeepEP] DeepSeek DeepEP(@deepseek-ai) ⚠️ [DeepEP] ⭐️⭐️",
+              "title": "[DeepEP]",
+              "description": "🔥🔥🔥[DeepEP] DeepSeek DeepEP(@deepseek-ai) ⚠️ ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -416,8 +416,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥🔥🔥[DeepGEMM] DeepSeek DeepGEMM(@deepseek-ai) ⚠️ [DeepGEMM] ⭐️⭐️",
+              "title": "[DeepGEMM]",
+              "description": "🔥🔥🔥[DeepGEMM] DeepSeek DeepGEMM(@deepseek-ai) ⚠️ ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -426,13 +426,13 @@
                 "last_commit": "2026-08-11T08:21:15Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepGEMM",
-                "stars": 7730
+                "stars": 7731
               }
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥🔥🔥[EPLB] DeepSeek EPLB(@deepseek-ai) ⚠️ [EPLB] ⭐️⭐️",
+              "title": "[EPLB]",
+              "description": "🔥🔥🔥[EPLB] DeepSeek EPLB(@deepseek-ai) ⚠️ ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -446,8 +446,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥🔥🔥[3FS] DeepSeek 3FS(@deepseek-ai) ⚠️ [3FS] ⭐️⭐️",
+              "title": "[3FS]",
+              "description": "🔥🔥🔥[3FS] DeepSeek 3FS(@deepseek-ai) ⚠️ ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,13 +456,13 @@
                 "last_commit": "2026-05-07T09:31:54Z",
                 "owner": "deepseek-ai",
                 "repo": "3FS",
-                "stars": 10159
+                "stars": 10160
               }
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥🔥[MHA2MLA] Towards Economical Inference: Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs(@fudan.edu.cn) [pdf] [MHA2MLA] ⭐️⭐️",
+              "title": "[MHA2MLA]",
+              "description": "🔥🔥[MHA2MLA] Towards Economical Inference: Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs(@fudan.edu.cn) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -483,53 +483,53 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2019.10",
-              "description": "🔥🔥[MP: ZeRO] DeepSpeed-ZeRO: Memory Optimizations Toward Training Trillion Parameter Models(@microsoft.com) [pdf] [deepspeed] ⭐️⭐️",
+              "title": "[deepspeed]",
+              "description": "🔥🔥[MP: ZeRO] DeepSpeed-ZeRO: Memory Optimizations Toward Training Trillion Parameter Models(@microsoft.com) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:54:31Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42988
+                "stars": 42991
               }
             },
             {
               "node_type": "item",
-              "title": "2020.05",
-              "description": "🔥🔥[TP: Megatron-LM] Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism(@NVIDIA) [pdf] [Megatron-LM] ⭐️⭐️",
+              "title": "[Megatron-LM]",
+              "description": "🔥🔥[TP: Megatron-LM] Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism(@NVIDIA) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:07:10Z",
+                "last_commit": "2026-08-25T05:45:42Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17567
+                "stars": 17574
               }
             },
             {
               "node_type": "item",
-              "title": "2022.05",
-              "description": "🔥🔥[SP: Megatron-LM] Megatron-LM: Reducing Activation Recomputation in Large Transformer Models(@NVIDIA) [pdf] [Megatron-LM] ⭐️⭐️",
+              "title": "[Megatron-LM]",
+              "description": "🔥🔥[SP: Megatron-LM] Megatron-LM: Reducing Activation Recomputation in Large Transformer Models(@NVIDIA) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:07:10Z",
+                "last_commit": "2026-08-25T05:45:42Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17567
+                "stars": 17574
               }
             },
             {
               "node_type": "item",
-              "title": "2023.05",
-              "description": "🔥🔥[SP: BPT] Blockwise Parallel Transformer for Large Context Models(@UC Berkeley) [pdf] [RingAttention] ⭐️⭐️",
+              "title": "[RingAttention]",
+              "description": "🔥🔥[SP: BPT] Blockwise Parallel Transformer for Large Context Models(@UC Berkeley) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -543,8 +543,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥🔥[SP: Ring Attention] Ring Attention with Blockwise Transformers for Near-Infinite Context(@UC Berkeley) [pdf] [RingAttention] ⭐️⭐️",
+              "title": "[RingAttention]",
+              "description": "🔥🔥[SP: Ring Attention] Ring Attention with Blockwise Transformers for Near-Infinite Context(@UC Berkeley) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -558,8 +558,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.11",
-              "description": "🔥🔥[SP: STRIPED ATTENTION] STRIPED ATTENTION: FASTER RING ATTENTION FOR CAUSAL TRANSFORMERS(@MIT etc) [pdf] [striped_attention] ⭐️⭐️",
+              "title": "[striped_attention]",
+              "description": "🔥🔥[SP: STRIPED ATTENTION] STRIPED ATTENTION: FASTER RING ATTENTION FOR CAUSAL TRANSFORMERS(@MIT etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -573,38 +573,38 @@
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥🔥[SP: DEEPSPEED ULYSSES] DEEPSPEED ULYSSES: SYSTEM OPTIMIZATIONS FOR ENABLING TRAINING OF EXTREME LONG SEQUENCE TRANSFORMER MODELS(@microsoft.com) [pdf] [deepspeed] ⭐️⭐️",
+              "title": "[deepspeed]",
+              "description": "🔥🔥[SP: DEEPSPEED ULYSSES] DEEPSPEED ULYSSES: SYSTEM OPTIMIZATIONS FOR ENABLING TRAINING OF EXTREME LONG SEQUENCE TRANSFORMER MODELS(@microsoft.com) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:54:31Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42988
+                "stars": 42991
               }
             },
             {
               "node_type": "item",
-              "title": "2024.03",
-              "description": "🔥🔥[CP: Megatron-LM] Megatron-LM: Context parallelism overview(@NVIDIA) [docs] [Megatron-LM] ⭐️⭐️",
+              "title": "[Megatron-LM]",
+              "description": "🔥🔥[CP: Megatron-LM] Megatron-LM: Context parallelism overview(@NVIDIA) [docs] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:07:10Z",
+                "last_commit": "2026-08-25T05:45:42Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17567
+                "stars": 17574
               }
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥🔥[SP: Unified Sequence Parallel (USP)] YunChang: A Unified Sequence Parallel (USP) Attention for Long Context LLM Model Training and Inference(@Tencent) [pdf] [long-context-attention] ⭐️⭐️",
+              "title": "[long-context-attention]",
+              "description": "🔥🔥[SP: Unified Sequence Parallel (USP)] YunChang: A Unified Sequence Parallel (USP) Attention for Long Context LLM Model Training and Inference(@Tencent) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -618,8 +618,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.11",
-              "description": "🔥🔥🔥[SP: Star-Attention, 11x~ speedup] Star Attention: Efficient LLM Inference over Long Sequences(@NVIDIA) [pdf] [Star-Attention] ⭐️⭐️",
+              "title": "[Star-Attention]",
+              "description": "🔥🔥🔥[SP: Star-Attention, 11x~ speedup] Star Attention: Efficient LLM Inference over Long Sequences(@NVIDIA) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -633,8 +633,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.12",
-              "description": "🔥🔥[SP: TokenRing] TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication(@SJTU) [pdf] [token-ring] ⭐️⭐️",
+              "title": "[token-ring]",
+              "description": "🔥🔥[SP: TokenRing] TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication(@SJTU) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -655,8 +655,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024.01",
-              "description": "🔥🔥[DistServe] DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving(@PKU) [pdf] [DistServe] ⭐️⭐️",
+              "title": "[DistServe]",
+              "description": "🔥🔥[DistServe] DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving(@PKU) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -677,10 +677,10 @@
                 "archived": false,
                 "id": 819733173,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:42:36Z",
+                "last_commit": "2026-08-25T05:00:04Z",
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6372
+                "stars": 6374
               }
             },
             {
@@ -692,10 +692,10 @@
                 "archived": false,
                 "id": 819733173,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:42:36Z",
+                "last_commit": "2026-08-25T05:00:04Z",
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6372
+                "stars": 6374
               }
             }
           ],
@@ -707,8 +707,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "[Evaluating] Evaluating Large Language Models: A Comprehensive Survey(@tju.edu.cn) [pdf] [Awesome-LLMs-Evaluation] ⭐️",
+              "title": "[Awesome-LLMs-Evaluation]",
+              "description": "[Evaluating] Evaluating Large Language Models: A Comprehensive Survey(@tju.edu.cn) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -722,8 +722,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "🔥[Efficient LLMs] Efficient Large Language Models: A Survey(@Ohio State University etc) [pdf] [Efficient-LLMs-Survey] ⭐️⭐️",
+              "title": "[Efficient-LLMs-Survey]",
+              "description": "🔥[Efficient LLMs] Efficient Large Language Models: A Survey(@Ohio State University etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -737,8 +737,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.02",
-              "description": "[LLM-Viewer] LLM Inference Unveiled: Survey and Roofline Model Insights(@Zhihang Yuan etc) [pdf] [LLM-Viewer] ⭐️⭐️",
+              "title": "[LLM-Viewer]",
+              "description": "[LLM-Viewer] LLM Inference Unveiled: Survey and Roofline Model Insights(@Zhihang Yuan etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -752,8 +752,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "[Internal Consistency & Self-Feedback] Internal Consistency and Self-Feedback in Large Language Models: A Survey [pdf] [ICSF-Survey] ⭐️⭐️",
+              "title": "[ICSF-Survey]",
+              "description": "[Internal Consistency & Self-Feedback] Internal Consistency and Self-Feedback in Large Language Models: A Survey [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -774,23 +774,23 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2020.05",
-              "description": "🔥[Megatron-LM] Training Multi-Billion Parameter Language Models Using Model Parallelism(@NVIDIA) [pdf] [Megatron-LM] ⭐️⭐️",
+              "title": "[Megatron-LM]",
+              "description": "🔥[Megatron-LM] Training Multi-Billion Parameter Language Models Using Model Parallelism(@NVIDIA) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:07:10Z",
+                "last_commit": "2026-08-25T05:45:42Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17567
+                "stars": 17574
               }
             },
             {
               "node_type": "item",
-              "title": "2023.03",
-              "description": "[FlexGen] High-Throughput Generative Inference of Large Language Models with a Single GPU(@Stanford University etc) [pdf] [FlexGen] ⭐️",
+              "title": "[FlexGen]",
+              "description": "[FlexGen] High-Throughput Generative Inference of Large Language Models with a Single GPU(@Stanford University etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -804,8 +804,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.05",
-              "description": "[SpecInfer] Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification(@Peking University etc) [pdf] [FlexFlow] ⭐️",
+              "title": "[FlexFlow]",
+              "description": "[SpecInfer] Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification(@Peking University etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -819,23 +819,23 @@
             },
             {
               "node_type": "item",
-              "title": "2023.09",
-              "description": "🔥[vLLM] Efficient Memory Management for Large Language Model Serving with PagedAttention(@UC Berkeley etc) [pdf] [vllm] ⭐️⭐️",
+              "title": "[vllm]",
+              "description": "🔥[vLLM] Efficient Memory Management for Large Language Model Serving with PagedAttention(@UC Berkeley etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 599547518,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:05:36Z",
+                "last_commit": "2026-08-25T05:39:05Z",
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 89906
+                "stars": 89930
               }
             },
             {
               "node_type": "item",
-              "title": "2023.09",
-              "description": "[StreamingLLM] EFFICIENT STREAMING LANGUAGE MODELS WITH ATTENTION SINKS(@Meta AI etc) [pdf] [streaming-llm] ⭐️",
+              "title": "[streaming-llm]",
+              "description": "[StreamingLLM] EFFICIENT STREAMING LANGUAGE MODELS WITH ATTENTION SINKS(@Meta AI etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -849,8 +849,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.09",
-              "description": "[Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads(@Tianle Cai etc) [blog] [Medusa] ⭐️",
+              "title": "[Medusa]",
+              "description": "[Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads(@Tianle Cai etc) [blog] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -864,53 +864,53 @@
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥[TensorRT-LLM] NVIDIA TensorRT LLM(@NVIDIA) [docs] [TensorRT-LLM] ⭐️⭐️",
+              "title": "[TensorRT-LLM]",
+              "description": "🔥[TensorRT-LLM] NVIDIA TensorRT LLM(@NVIDIA) [docs] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 679366051,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:51:15Z",
+                "last_commit": "2026-08-25T05:43:45Z",
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 14465
+                "stars": 14470
               }
             },
             {
               "node_type": "item",
-              "title": "2023.11",
-              "description": "🔥[DeepSpeed-FastGen 2x vLLM?] DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference(@Microsoft) [pdf] [deepspeed-fastgen] ⭐️⭐️",
+              "title": "[deepspeed-fastgen]",
+              "description": "🔥[DeepSpeed-FastGen 2x vLLM?] DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference(@Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:54:31Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42988
+                "stars": 42991
               }
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "🔥🔥[SGLang] Efficiently Programming Large Language Models using SGLang(@Stanford University etc) [pdf] [sglang] ⭐️⭐️",
+              "title": "[sglang]",
+              "description": "🔥🔥[SGLang] Efficiently Programming Large Language Models using SGLang(@Stanford University etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 740303686,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:09:01Z",
+                "last_commit": "2026-08-25T05:45:37Z",
                 "owner": "sgl-project",
                 "repo": "sglang",
-                "stars": 32385
+                "stars": 32396
               }
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "🔥[PETALS] Distributed Inference and Fine-tuning of Large Language Models Over The Internet(@HSE Univesity etc) [pdf] [petals] ⭐️⭐️",
+              "title": "[petals]",
+              "description": "🔥[PETALS] Distributed Inference and Fine-tuning of Large Language Models Over The Internet(@HSE Univesity etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -919,13 +919,13 @@
                 "last_commit": "2024-09-07T11:54:28Z",
                 "owner": "bigscience-workshop",
                 "repo": "petals",
-                "stars": 10512
+                "stars": 10513
               }
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "[LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers(@UC Berkeley etc) [pdf] [LightSeq] ⭐️",
+              "title": "[LightSeq]",
+              "description": "[LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers(@UC Berkeley etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -939,8 +939,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "[PowerInfer] PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU(@SJTU) [pdf] [PowerInfer] ⭐️",
+              "title": "[PowerInfer]",
+              "description": "[PowerInfer] PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU(@SJTU) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -949,13 +949,13 @@
                 "last_commit": "2026-05-11T06:48:06Z",
                 "owner": "Tiiny-AI",
                 "repo": "PowerInfer",
-                "stars": 9741
+                "stars": 9743
               }
             },
             {
               "node_type": "item",
-              "title": "2024.01",
-              "description": "[inferflow]INFERFLOW: AN EFFICIENT AND HIGHLY CONFIGURABLE INFERENCE ENGINE FOR LARGE LANGUAGE MODELS(@Tencent AI Lab) [pdf] [inferflow] ⭐️",
+              "title": "[inferflow]",
+              "description": "[inferflow]INFERFLOW: AN EFFICIENT AND HIGHLY CONFIGURABLE INFERENCE ENGINE FOR LARGE LANGUAGE MODELS(@Tencent AI Lab) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -976,10 +976,10 @@
                 "archived": false,
                 "id": 819733173,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:42:36Z",
+                "last_commit": "2026-08-25T05:00:04Z",
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6372
+                "stars": 6374
               }
             },
             {
@@ -991,16 +991,16 @@
                 "archived": false,
                 "id": 819733173,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:42:36Z",
+                "last_commit": "2026-08-25T05:00:04Z",
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6372
+                "stars": 6374
               }
             },
             {
               "node_type": "item",
-              "title": "2023.06",
-              "description": "🔥[LMDeploy] LMDeploy: LMDeploy is a toolkit for compressing, deploying, and serving LLMs(@InternLM) [docs] [lmdeploy] ⭐️⭐️",
+              "title": "[lmdeploy]",
+              "description": "🔥[LMDeploy] LMDeploy: LMDeploy is a toolkit for compressing, deploying, and serving LLMs(@InternLM) [docs] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1014,8 +1014,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.05",
-              "description": "🔥[MLC-LLM]Universal LLM Deployment Engine with ML Compilation(@mlc-ai) [docs] [mlc-llm] ⭐️⭐️",
+              "title": "[mlc-llm]",
+              "description": "🔥[MLC-LLM]Universal LLM Deployment Engine with ML Compilation(@mlc-ai) [docs] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1029,14 +1029,14 @@
             },
             {
               "node_type": "item",
-              "title": "2023.08",
-              "description": "🔥[LightLLM] LightLLM is a Python-based LLM (Large Language Model) inference and serving framework(@ModelTC) [docs] [lightllm] ⭐️⭐️",
+              "title": "ModelTC/LightLLM",
+              "description": "🔥[LightLLM] LightLLM is a Python-based LLM (Large Language Model) inference and serving framework(@ModelTC) [lightllm] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 669420857,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:53:48Z",
+                "last_commit": "2026-08-25T03:00:31Z",
                 "owner": "ModelTC",
                 "repo": "LightLLM",
                 "stars": 4237
@@ -1044,32 +1044,32 @@
             },
             {
               "node_type": "item",
-              "title": "2023.03",
-              "description": "🔥[llama.cpp] llama.cpp: Inference of Meta's LLaMA model (and others) in pure C/C++(@ggerganov) [docs] [llama.cpp] ⭐️⭐️",
+              "title": "ggml-org/llama.cpp",
+              "description": "🔥[llama.cpp] llama.cpp: Inference of Meta's LLaMA model (and others) in pure C/C++(@ggerganov) [llama.cpp] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 612354784,
                 "language": "C++",
-                "last_commit": "2026-08-24T21:53:10Z",
+                "last_commit": "2026-08-25T05:08:07Z",
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 125471
+                "stars": 125499
               }
             },
             {
               "node_type": "item",
-              "title": "2024.02",
-              "description": "🔥[flashinfer] FlashInfer: Kernel Library for LLM Serving(@flashinfer-ai) [docs] [flashinfer] ⭐️⭐️",
+              "title": "[flashinfer]",
+              "description": "🔥[flashinfer] FlashInfer: Kernel Library for LLM Serving(@flashinfer-ai) [docs] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 669331976,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:32:41Z",
+                "last_commit": "2026-08-25T04:18:12Z",
                 "owner": "flashinfer-ai",
                 "repo": "flashinfer",
-                "stars": 6235
+                "stars": 6238
               }
             },
             {
@@ -1081,10 +1081,10 @@
                 "archived": false,
                 "id": 819733173,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:42:36Z",
+                "last_commit": "2026-08-25T05:00:04Z",
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6372
+                "stars": 6374
               }
             },
             {
@@ -1096,16 +1096,16 @@
                 "archived": false,
                 "id": 819733173,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:42:36Z",
+                "last_commit": "2026-08-25T05:00:04Z",
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6372
+                "stars": 6374
               }
             },
             {
               "node_type": "item",
-              "title": "2024.08",
-              "description": "🔥[NanoFlow] NanoFlow: Towards Optimal Large Language Model Serving Throughput(@University of Washington) [pdf] [Nanoflow] ⭐️⭐️",
+              "title": "[Nanoflow]",
+              "description": "🔥[NanoFlow] NanoFlow: Towards Optimal Large Language Model Serving Throughput(@University of Washington) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1119,8 +1119,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.07",
-              "description": "🔥[siiRL] DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training(@Shanghai Inovation Institute) [pdf] [siiRL] ⭐️⭐️",
+              "title": "[siiRL]",
+              "description": "🔥[siiRL] DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training(@Shanghai Inovation Institute) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1134,8 +1134,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.04",
-              "description": "🔥[ToolPipe] ToolPipe: 120+ Free Developer Tools REST API & MCP Server for AI Agents(@COSAI-Labs) [docs] [toolpipe-mcp-server] ⭐️",
+              "title": "[toolpipe-mcp-server]",
+              "description": "🔥[ToolPipe] ToolPipe: 120+ Free Developer Tools REST API & MCP Server for AI Agents(@COSAI-Labs) [docs] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1149,8 +1149,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026.06",
-              "description": "🔥[ANEForge] ANEForge: Python for direct computation on the Apple Neural Engine(@Georgia Tech) [pdf] [ANEForge] ⭐️",
+              "title": "[ANEForge]",
+              "description": "🔥[ANEForge] ANEForge: Python for direct computation on the Apple Neural Engine(@Georgia Tech) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1171,17 +1171,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥[In-flight Batching] NVIDIA TensorRT LLM Batch Manager(@NVIDIA) [docs] [TensorRT-LLM] ⭐️⭐️",
+              "title": "[TensorRT-LLM]",
+              "description": "🔥[In-flight Batching] NVIDIA TensorRT LLM Batch Manager(@NVIDIA) [docs] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 679366051,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:51:15Z",
+                "last_commit": "2026-08-25T05:43:45Z",
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 14465
+                "stars": 14470
               }
             },
             {
@@ -1193,10 +1193,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:54:31Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42988
+                "stars": 42991
               }
             },
             {
@@ -1208,16 +1208,16 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:54:31Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42988
+                "stars": 42991
               }
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "[SpotServe] SpotServe: Serving Generative Large Language Models on Preemptible Instances(@cmu.edu etc) [pdf] [SpotServe] ⭐️",
+              "title": "[SpotServe]",
+              "description": "[SpotServe] SpotServe: Serving Generative Large Language Models on Preemptible Instances(@cmu.edu etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1231,8 +1231,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "[LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers(@UC Berkeley etc) [pdf] [LightSeq] ⭐️",
+              "title": "[LightSeq]",
+              "description": "[LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers(@UC Berkeley etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1246,8 +1246,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥[vAttention] vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention(@Microsoft Research India) [pdf] [vAttention] ⭐️⭐️",
+              "title": "[vAttention]",
+              "description": "🔥[vAttention] vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention(@Microsoft Research India) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1261,8 +1261,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥🔥[vTensor] vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving(@Shanghai Jiao Tong University etc) [pdf] [vTensor] ⭐️⭐️",
+              "title": "[vTensor]",
+              "description": "🔥🔥[vTensor] vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving(@Shanghai Jiao Tong University etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1283,23 +1283,23 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2022.06",
-              "description": "🔥[ZeroQuant] Efficient and Affordable Post-Training Quantization for Large-Scale Transformers(@Microsoft) [pdf] [DeepSpeed] ⭐️⭐️",
+              "title": "[DeepSpeed]",
+              "description": "🔥[ZeroQuant] Efficient and Affordable Post-Training Quantization for Large-Scale Transformers(@Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:54:31Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42988
+                "stars": 42991
               }
             },
             {
               "node_type": "item",
-              "title": "2022.08",
-              "description": "[FP8-Quantization] FP8 Quantization: The Power of the Exponent(@Qualcomm AI Research) [pdf] [FP8-quantization] ⭐️",
+              "title": "[FP8-quantization]",
+              "description": "[FP8-Quantization] FP8 Quantization: The Power of the Exponent(@Qualcomm AI Research) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1313,8 +1313,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022.08",
-              "description": "[LLM.int8()] 8-bit Matrix Multiplication for Transformers at Scale(@Facebook AI Research etc) [pdf] [bitsandbytes] ⭐️",
+              "title": "[bitsandbytes]",
+              "description": "[LLM.int8()] 8-bit Matrix Multiplication for Transformers at Scale(@Facebook AI Research etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1328,8 +1328,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022.10",
-              "description": "🔥[GPTQ] GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS(@IST Austria etc) [pdf] [gptq] ⭐️⭐️",
+              "title": "[gptq]",
+              "description": "🔥[GPTQ] GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS(@IST Austria etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1343,8 +1343,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022.11",
-              "description": "🔥[WINT8/4] Who Says Elephants Can’t Run: Bringing Large Scale MoE Models into Cloud Scale Production(@NVIDIA&Microsoft) [pdf] [FasterTransformer] ⭐️⭐️",
+              "title": "[FasterTransformer]",
+              "description": "🔥[WINT8/4] Who Says Elephants Can’t Run: Bringing Large Scale MoE Models into Cloud Scale Production(@NVIDIA&Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1358,8 +1358,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022.11",
-              "description": "🔥[SmoothQuant] Accurate and Efficient Post-Training Quantization for Large Language Models(@MIT etc) [pdf] [smoothquant] ⭐️⭐️",
+              "title": "[smoothquant]",
+              "description": "🔥[SmoothQuant] Accurate and Efficient Post-Training Quantization for Large Language Models(@MIT etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1373,23 +1373,23 @@
             },
             {
               "node_type": "item",
-              "title": "2023.03",
-              "description": "[ZeroQuant-V2] Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation(@Microsoft) [pdf] [DeepSpeed] ⭐️",
+              "title": "[DeepSpeed]",
+              "description": "[ZeroQuant-V2] Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation(@Microsoft) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:54:31Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42988
+                "stars": 42991
               }
             },
             {
               "node_type": "item",
-              "title": "2023.06",
-              "description": "🔥[AWQ] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration(@MIT etc) [pdf] [llm-awq] ⭐️⭐️",
+              "title": "[llm-awq]",
+              "description": "🔥[AWQ] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration(@MIT etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1403,8 +1403,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.06",
-              "description": "[SpQR] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression(@University of Washington etc) [pdf] [SpQR] ⭐️",
+              "title": "[SpQR]",
+              "description": "[SpQR] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression(@University of Washington etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1418,8 +1418,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.06",
-              "description": "[SqueezeLLM] SQUEEZELLM: DENSE-AND-SPARSE QUANTIZATION(@berkeley.edu) [pdf] [SqueezeLLM] ⭐️",
+              "title": "[SqueezeLLM]",
+              "description": "[SqueezeLLM] SQUEEZELLM: DENSE-AND-SPARSE QUANTIZATION(@berkeley.edu) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1433,23 +1433,23 @@
             },
             {
               "node_type": "item",
-              "title": "2023.07",
-              "description": "[ZeroQuant-FP] A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats(@Microsoft) [pdf] [DeepSpeed] ⭐️",
+              "title": "[DeepSpeed]",
+              "description": "[ZeroQuant-FP] A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats(@Microsoft) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:54:31Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42988
+                "stars": 42991
               }
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "[FP8-LM] FP8-LM: Training FP8 Large Language Models(@Microsoft etc) [pdf] [MS-AMP] ⭐️",
+              "title": "[MS-AMP]",
+              "description": "[FP8-LM] FP8-LM: Training FP8 Large Language Models(@Microsoft etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1463,8 +1463,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "[LLM-Shearing] SHEARED LLAMA: ACCELERATING LANGUAGE MODEL PRE-TRAINING VIA STRUCTURED PRUNING(@cs.princeton.edu etc) [pdf] [LLM-Shearing] ⭐️",
+              "title": "[LLM-Shearing]",
+              "description": "[LLM-Shearing] SHEARED LLAMA: ACCELERATING LANGUAGE MODEL PRE-TRAINING VIA STRUCTURED PRUNING(@cs.princeton.edu etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1478,8 +1478,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "[LLM-FP4] LLM-FP4: 4-Bit Floating-Point Quantized Transformers(@ust.hk&meta etc) [pdf] [LLM-FP4] ⭐️",
+              "title": "[LLM-FP4]",
+              "description": "[LLM-FP4] LLM-FP4: 4-Bit Floating-Point Quantized Transformers(@ust.hk&meta etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1493,8 +1493,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "[SmoothQuant+] SmoothQuant+: Accurate and Efficient 4-bit Post-Training Weight Quantization for LLM(@ZTE Corporation) [pdf] [smoothquantplus] ⭐️",
+              "title": "[smoothquantplus]",
+              "description": "[SmoothQuant+] SmoothQuant+: Accurate and Efficient 4-bit Post-Training Weight Quantization for LLM(@ZTE Corporation) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1508,8 +1508,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥🔥[W4A8KV4] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving(@MIT&NVIDIA) [pdf] [qserve] ⭐️⭐️",
+              "title": "[qserve]",
+              "description": "🔥🔥[W4A8KV4] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving(@MIT&NVIDIA) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1523,8 +1523,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.08",
-              "description": "🔥[ABQ-LLM] ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models(@ByteDance) [pdf] [ABQ-LLM] ⭐️",
+              "title": "[ABQ-LLM]",
+              "description": "🔥[ABQ-LLM] ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models(@ByteDance) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1538,8 +1538,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.08",
-              "description": "🔥[ACTIVATION SPARSITY] TRAINING-FREE ACTIVATION SPARSITY IN LARGE LANGUAGE MODELS(@MIT etc) [pdf] [TEAL] ⭐️",
+              "title": "[TEAL]",
+              "description": "🔥[ACTIVATION SPARSITY] TRAINING-FREE ACTIVATION SPARSITY IN LARGE LANGUAGE MODELS(@MIT etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1553,8 +1553,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.09",
-              "description": "🔥[VPTQ] VPTQ: EXTREME LOW-BIT VECTOR POST-TRAINING QUANTIZATION FOR LARGE LANGUAGE MODELS(@Microsoft) [pdf] [VPTQ] ⭐️",
+              "title": "[VPTQ]",
+              "description": "🔥[VPTQ] VPTQ: EXTREME LOW-BIT VECTOR POST-TRAINING QUANTIZATION FOR LARGE LANGUAGE MODELS(@Microsoft) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1568,8 +1568,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.11",
-              "description": "🔥[BitNet] BitNet a4.8: 4-bit Activations for 1-bit LLMs(@Microsoft) [pdf] [bitnet] ⭐️",
+              "title": "[bitnet]",
+              "description": "🔥[BitNet] BitNet a4.8: 4-bit Activations for 1-bit LLMs(@Microsoft) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1583,8 +1583,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.04",
-              "description": "🔥[BitNet v2] BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs(@Microsoft) [pdf] [bitnet] ⭐️",
+              "title": "[bitnet]",
+              "description": "🔥[BitNet v2] BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs(@Microsoft) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1598,8 +1598,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.05",
-              "description": "🔥[GuidedQuant] GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance (@SNU&SamsungAILab&Google) [pdf] [GuidedQuant] ⭐️⭐️",
+              "title": "[GuidedQuant]",
+              "description": "🔥[GuidedQuant] GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance (@SNU&SamsungAILab&Google) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1620,8 +1620,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2020.10",
-              "description": "[Hash Attention] REFORMER: THE EFFICIENT TRANSFORMER(@Google) [pdf] [reformer] ⭐️⭐️",
+              "title": "[reformer]",
+              "description": "[Hash Attention] REFORMER: THE EFFICIENT TRANSFORMER(@Google) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1635,8 +1635,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022.05",
-              "description": "🔥[FlashAttention] Fast and Memory-Efficient Exact Attention with IO-Awareness(@Stanford University etc) [pdf] [flash-attention] ⭐️⭐️",
+              "title": "[flash-attention]",
+              "description": "🔥[FlashAttention] Fast and Memory-Efficient Exact Attention with IO-Awareness(@Stanford University etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1645,13 +1645,13 @@
                 "last_commit": "2026-08-19T08:12:39Z",
                 "owner": "Dao-AILab",
                 "repo": "flash-attention",
-                "stars": 24774
+                "stars": 24777
               }
             },
             {
               "node_type": "item",
-              "title": "2023.05",
-              "description": "🔥🔥[GQA] GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints(@Google) [pdf] [flaxformer] ⭐️⭐️",
+              "title": "[flaxformer]",
+              "description": "🔥🔥[GQA] GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints(@Google) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1665,8 +1665,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.06",
-              "description": "[Sparse FlashAttention] Faster Causal Attention Over Large Sequences Through Sparse Flash Attention(@EPFL etc) [pdf] [dynamic-sparse-flash-attention] ⭐️",
+              "title": "[dynamic-sparse-flash-attention]",
+              "description": "[Sparse FlashAttention] Faster Causal Attention Over Large Sequences Through Sparse Flash Attention(@EPFL etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1680,8 +1680,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.07",
-              "description": "🔥[FlashAttention-2] Faster Attention with Better Parallelism and Work Partitioning(@Stanford University etc) [pdf] [flash-attention] ⭐️⭐️",
+              "title": "[flash-attention]",
+              "description": "🔥[FlashAttention-2] Faster Attention with Better Parallelism and Work Partitioning(@Stanford University etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1690,13 +1690,13 @@
                 "last_commit": "2026-08-19T08:12:39Z",
                 "owner": "Dao-AILab",
                 "repo": "flash-attention",
-                "stars": 24774
+                "stars": 24777
               }
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥[Flash-Decoding] Flash-Decoding for long-context inference(@Stanford University etc) [blog] [flash-attention] ⭐️⭐️",
+              "title": "[flash-attention]",
+              "description": "🔥[Flash-Decoding] Flash-Decoding for long-context inference(@Stanford University etc) [blog] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1705,13 +1705,13 @@
                 "last_commit": "2026-08-19T08:12:39Z",
                 "owner": "Dao-AILab",
                 "repo": "flash-attention",
-                "stars": 24774
+                "stars": 24777
               }
             },
             {
               "node_type": "item",
-              "title": "2023.01",
-              "description": "[SparseGPT] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot(@ISTA etc) [pdf] [sparsegpt] ⭐️",
+              "title": "[sparsegpt]",
+              "description": "[SparseGPT] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot(@ISTA etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1725,8 +1725,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "🔥[GLA] Gated Linear Attention Transformers with Hardware-Efficient Training(@MIT-IBM Watson AI) [pdf] gated_linear_attention ⭐️⭐️",
+              "title": "gated_linear_attention",
+              "description": "🔥[GLA] Gated Linear Attention Transformers with Hardware-Efficient Training(@MIT-IBM Watson AI) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1740,8 +1740,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.04",
-              "description": "[MoA] MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression(@thu et el.) [pdf] [MoA] ⭐️",
+              "title": "[MoA]",
+              "description": "[MoA] MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression(@thu et el.) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1755,8 +1755,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥🔥[FlashAttention-3] FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision(@TriDao etc) [pdf] [flash-attention] ⭐️⭐️",
+              "title": "[flash-attention]",
+              "description": "🔥🔥[FlashAttention-3] FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision(@TriDao etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1765,13 +1765,13 @@
                 "last_commit": "2026-08-19T08:12:39Z",
                 "owner": "Dao-AILab",
                 "repo": "flash-attention",
-                "stars": 24774
+                "stars": 24777
               }
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥🔥[MInference 1.0] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft) [pdf] [MInference 1.0] ⭐️⭐️",
+              "title": "[MInference 1.0]",
+              "description": "🔥🔥[MInference 1.0] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1785,8 +1785,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥🔥[Shared Attention] Beyond KV Caching: Shared Attention for Efficient LLMs(@Kyushu University etc) [pdf] [shareAtt] ⭐️",
+              "title": "[shareAtt]",
+              "description": "🔥🔥[Shared Attention] Beyond KV Caching: Shared Attention for Efficient LLMs(@Kyushu University etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1800,8 +1800,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.09",
-              "description": "🔥🔥[INT-FLASHATTENTION] INT-FLASHATTENTION: ENABLING FLASH ATTENTION FOR INT8 QUANTIZATION(@PKU etc) [pdf] [INT-FlashAttention] ⭐️",
+              "title": "[INT-FlashAttention]",
+              "description": "🔥🔥[INT-FLASHATTENTION] INT-FLASHATTENTION: ENABLING FLASH ATTENTION FOR INT8 QUANTIZATION(@PKU etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1815,8 +1815,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.10",
-              "description": "🔥🔥[SageAttention] SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION(@thu-ml) [pdf] [SageAttention] ⭐️⭐️",
+              "title": "[SageAttention]",
+              "description": "🔥🔥[SageAttention] SAGEATTENTION: ACCURATE 8-BIT ATTENTION FOR PLUG-AND-PLAY INFERENCE ACCELERATION(@thu-ml) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1830,8 +1830,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.11",
-              "description": "🔥🔥[SageAttention-2] SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization(@thu-ml) [pdf] [SageAttention] ⭐️⭐️",
+              "title": "[SageAttention]",
+              "description": "🔥🔥[SageAttention-2] SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization(@thu-ml) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1845,8 +1845,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.11",
-              "description": "🔥🔥[Squeezed Attention] SQUEEZED ATTENTION: Accelerating Long Context Length LLM Inference(@UC Berkeley) [pdf] [SqueezedAttention] ⭐️⭐️",
+              "title": "[SqueezedAttention]",
+              "description": "🔥🔥[Squeezed Attention] SQUEEZED ATTENTION: Accelerating Long Context Length LLM Inference(@UC Berkeley) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1860,14 +1860,14 @@
             },
             {
               "node_type": "item",
-              "title": "2025.01",
-              "description": "🔥🔥[FFPA] FFPA: Yet another Faster Flash Prefill Attention with O(1) SRAM complexity for headdim > 256, ~1.5x faster than SDPA EA(@xlite-dev) [docs] [ffpa-attn] ⭐️⭐️",
+              "title": "xlite-dev/ffpa-attn",
+              "description": "🔥🔥[FFPA] FFPA: Yet another Faster Flash Prefill Attention with O(1) SRAM complexity for headdim > 256, ~1.5x faster than SDPA EA(@xlite-dev) [ffpa-attn] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 896023715,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:25:33Z",
+                "last_commit": "2026-08-25T03:58:15Z",
                 "owner": "xlite-dev",
                 "repo": "ffpa-attn",
                 "stars": 323
@@ -1875,8 +1875,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.03",
-              "description": "🔥🔥[SpargeAttention] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference(@thu-ml) [pdf] [SpargeAttn] ⭐️⭐️",
+              "title": "[SpargeAttn]",
+              "description": "🔥🔥[SpargeAttention] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference(@thu-ml) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1890,8 +1890,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.04",
-              "description": "🔥🔥[MMInference] MMInference: Accelerating Pre-filling for Long-Context Visual Language Models via Modality-Aware Permutation Sparse Attention(@microsoft) [pdf] [MInference] ⭐️⭐️",
+              "title": "[MInference]",
+              "description": "🔥🔥[MMInference] MMInference: Accelerating Pre-filling for Long-Context Visual Language Models via Modality-Aware Permutation Sparse Attention(@microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1905,8 +1905,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.04",
-              "description": "🔥🔥[Sparse Frontier] The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs (@Cohere) [pdf] [SparseFrontier] ⭐️⭐️",
+              "title": "[SparseFrontier]",
+              "description": "🔥🔥[Sparse Frontier] The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs (@Cohere) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1920,14 +1920,14 @@
             },
             {
               "node_type": "item",
-              "title": "2024.12",
-              "description": "🔥🔥[Flex Attention] FLEX ATTENTION: A PROGRAMMING MODEL FOR GENERATING OPTIMIZED ATTENTION KERNELS(@pytorch) [pdf] [attention-gym] ⭐️⭐️",
+              "title": "[attention-gym]",
+              "description": "🔥🔥[Flex Attention] FLEX ATTENTION: A PROGRAMMING MODEL FOR GENERATING OPTIMIZED ATTENTION KERNELS(@pytorch) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 836426852,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:58:37Z",
+                "last_commit": "2026-08-25T04:53:12Z",
                 "owner": "meta-pytorch",
                 "repo": "attention-gym",
                 "stars": 1227
@@ -1935,8 +1935,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥🔥🔥[SeerAttention] SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs(@microsoft) [pdf] [SeerAttention] ⭐️⭐️⭐️",
+              "title": "[SeerAttention]",
+              "description": "🔥🔥🔥[SeerAttention] SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs(@microsoft) [pdf] ⭐️⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1950,8 +1950,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.03",
-              "description": "[Slim attention] Slim attention: cut your context memory in half without loss of accuracy, K-cache is all you need for MHA(@OpenMachine.ai) [pdf] [OpenMchine] ⭐️⭐️⭐️",
+              "title": "[OpenMchine]",
+              "description": "[Slim attention] Slim attention: cut your context memory in half without loss of accuracy, K-cache is all you need for MHA(@OpenMachine.ai) [pdf] ⭐️⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1965,8 +1965,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.05",
-              "description": "🔥🔥[SageAttention-3] SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-bit Training(@thu-ml) [pdf] [SageAttention] ⭐️⭐️",
+              "title": "[SageAttention]",
+              "description": "🔥🔥[SageAttention-3] SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-bit Training(@thu-ml) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1980,8 +1980,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.04",
-              "description": "🔥🔥[Parallel Encoding] APE: Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding(@cmu.edu&NVIDIA) [pdf] [APE] ⭐️⭐️",
+              "title": "[APE]",
+              "description": "🔥🔥[Parallel Encoding] APE: Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding(@cmu.edu&NVIDIA) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1995,8 +1995,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.04",
-              "description": "🔥🔥[Parallel Encoding] Block-Attention for Efficient Prefilling(@Tencent etc) [pdf] [Block-attention] ⭐️⭐️",
+              "title": "[Block-attention]",
+              "description": "🔥🔥[Parallel Encoding] Block-Attention for Efficient Prefilling(@Tencent etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2017,8 +2017,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2026.03",
-              "description": "🔥🔥[NexusQuant] NexusQuant: Training-Free KV Cache Compression via E8 Lattice Quantization and Attention-Aware Token Eviction — 6.1x compression, +0.276% PPL on Mistral-7B, drop-in one-liner [code] [jagmarques] ⭐️⭐️",
+              "title": "jagmarques/nexusquant",
+              "description": "🔥🔥[NexusQuant] NexusQuant: Training-Free KV Cache Compression via E8 Lattice Quantization and Attention-Aware Token Eviction — 6.1x compression, +0.276% PPL on Mistral-7B, drop-in one-liner [jagmarques] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2032,8 +2032,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022.06",
-              "description": "[LTP] Learned Token Pruning for Transformers(@UC Berkeley etc) [pdf] [LTP] ⭐️",
+              "title": "[LTP]",
+              "description": "[LTP] Learned Token Pruning for Transformers(@UC Berkeley etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2047,8 +2047,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.05",
-              "description": "🔥🔥[GQA] GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints(@Google) [pdf] [flaxformer] ⭐️⭐️",
+              "title": "[flaxformer]",
+              "description": "🔥🔥[GQA] GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints(@Google) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2062,8 +2062,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.06",
-              "description": "[H2O] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models(@Rice University etc) [pdf] [H2O] ⭐️",
+              "title": "[H2O]",
+              "description": "[H2O] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models(@Rice University etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2077,8 +2077,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.06",
-              "description": "[QK-Sparse/Dropping Attention] Faster Causal Attention Over Large Sequences Through Sparse Flash Attention(@EPFL etc) [pdf] [dynamic-sparse-flash-attention] ⭐️",
+              "title": "[dynamic-sparse-flash-attention]",
+              "description": "[QK-Sparse/Dropping Attention] Faster Causal Attention Over Large Sequences Through Sparse Flash Attention(@EPFL etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2092,53 +2092,53 @@
             },
             {
               "node_type": "item",
-              "title": "2023.09",
-              "description": "🔥🔥[PagedAttention] Efficient Memory Management for Large Language Model Serving with PagedAttention(@UC Berkeley etc) [pdf] [vllm] ⭐️⭐️",
+              "title": "[vllm]",
+              "description": "🔥🔥[PagedAttention] Efficient Memory Management for Large Language Model Serving with PagedAttention(@UC Berkeley etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 599547518,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:05:36Z",
+                "last_commit": "2026-08-25T05:39:05Z",
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 89906
+                "stars": 89930
               }
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥[TensorRT-LLM KV Cache FP8] NVIDIA TensorRT LLM(@NVIDIA) [docs] [TensorRT-LLM] ⭐️⭐️",
+              "title": "[TensorRT-LLM]",
+              "description": "🔥[TensorRT-LLM KV Cache FP8] NVIDIA TensorRT LLM(@NVIDIA) [docs] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 679366051,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:51:15Z",
+                "last_commit": "2026-08-25T05:43:45Z",
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 14465
+                "stars": 14470
               }
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "[CacheGen] CacheGen: Fast Context Loading for Language Model Applications(@Chicago University&Microsoft) [pdf] [LMCache] ⭐️",
+              "title": "[LMCache]",
+              "description": "[CacheGen] CacheGen: Fast Context Loading for Language Model Applications(@Chicago University&Microsoft) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:50:10Z",
+                "last_commit": "2026-08-25T04:14:38Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11348
+                "stars": 11352
               }
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "[KV Cache Compress with LoRA] Compressed Context Memory for Online Language Model Interaction (@SNU & NAVER AI) [pdf] [Compressed-Context-Memory] ⭐️⭐️",
+              "title": "[Compressed-Context-Memory]",
+              "description": "[KV Cache Compress with LoRA] Compressed Context Memory for Online Language Model Interaction (@SNU & NAVER AI) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2152,23 +2152,23 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "🔥🔥[RadixAttention] Efficiently Programming Large Language Models using SGLang(@Stanford University etc) [pdf] [sglang] ⭐️⭐️",
+              "title": "[sglang]",
+              "description": "🔥🔥[RadixAttention] Efficiently Programming Large Language Models using SGLang(@Stanford University etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 740303686,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:09:01Z",
+                "last_commit": "2026-08-25T05:45:37Z",
                 "owner": "sgl-project",
                 "repo": "sglang",
-                "stars": 32385
+                "stars": 32396
               }
             },
             {
               "node_type": "item",
-              "title": "2024.02",
-              "description": "🔥🔥[ChunkAttention] ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition(@microsoft.com) [pdf] [chunk-attention] ⭐️⭐️",
+              "title": "[chunk-attention]",
+              "description": "🔥🔥[ChunkAttention] ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition(@microsoft.com) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2182,8 +2182,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.03",
-              "description": "🔥[QAQ] QAQ: Quality Adaptive Quantization for LLM KV Cache(@@smail.nju.edu.cn) [pdf] [QAQ-KVCacheQuantization] ⭐️⭐️",
+              "title": "[QAQ-KVCacheQuantization]",
+              "description": "🔥[QAQ] QAQ: Quality Adaptive Quantization for LLM KV Cache(@@smail.nju.edu.cn) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2197,8 +2197,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.03",
-              "description": "🔥🔥[Keyformer] Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference(@ece.ubc.ca etc) [pdf] [Keyformer] ⭐️⭐️",
+              "title": "[Keyformer]",
+              "description": "🔥🔥[Keyformer] Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference(@ece.ubc.ca etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2212,8 +2212,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.03",
-              "description": "🔥[GEAR] GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM(@gatech.edu) [pdf] [GEAR] ⭐️",
+              "title": "[GEAR]",
+              "description": "🔥[GEAR] GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM(@gatech.edu) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2227,8 +2227,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.04",
-              "description": "[SqueezeAttention] SQUEEZEATTENTION: 2D Management of KV-Cache in LLM Inference via Layer-wise Optimal Budget(@lzu.edu.cn etc) [pdf] [SqueezeAttention] ⭐️⭐️",
+              "title": "[SqueezeAttention]",
+              "description": "[SqueezeAttention] SQUEEZEATTENTION: 2D Management of KV-Cache in LLM Inference via Layer-wise Optimal Budget(@lzu.edu.cn etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2242,8 +2242,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.04",
-              "description": "[SnapKV] SnapKV: LLM Knows What You are Looking for Before Generation(@UIUC) [pdf] [SnapKV] ⭐️",
+              "title": "[SnapKV]",
+              "description": "[SnapKV] SnapKV: LLM Knows What You are Looking for Before Generation(@UIUC) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2257,8 +2257,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥[vAttention] vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention(@Microsoft Research India) [pdf] [vAttention] ⭐️⭐️",
+              "title": "[vAttention]",
+              "description": "🔥[vAttention] vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention(@Microsoft Research India) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2272,23 +2272,23 @@
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥[CacheBlend] CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion(@University of Chicago) [pdf] [LMCache] ⭐️⭐️",
+              "title": "[LMCache]",
+              "description": "🔥[CacheBlend] CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion(@University of Chicago) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:50:10Z",
+                "last_commit": "2026-08-25T04:14:38Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11348
+                "stars": 11352
               }
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥[MLKV] MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding(@Institut Teknologi Bandung) [pdf] [pythia-mlkv] ⭐️",
+              "title": "[pythia-mlkv]",
+              "description": "🔥[MLKV] MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding(@Institut Teknologi Bandung) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2302,8 +2302,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥[Palu] Palu: Compressing KV-Cache with Low-Rank Projection(@nycu.edu.tw) [pdf] [Palu] ⭐️⭐️",
+              "title": "[Palu]",
+              "description": "🔥[Palu] Palu: Compressing KV-Cache with Low-Rank Projection(@nycu.edu.tw) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2317,8 +2317,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.09",
-              "description": "🔥[AlignedKV] AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization(@Tsinghua University) [pdf] [AlignedKV] ⭐️",
+              "title": "[AlignedKV]",
+              "description": "🔥[AlignedKV] AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization(@Tsinghua University) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2332,8 +2332,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.10",
-              "description": "🔥[AdaKV] Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference (@USTC) [pdf] [AdaKV] ⭐️⭐️",
+              "title": "[AdaKV]",
+              "description": "🔥[AdaKV] Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference (@USTC) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2347,8 +2347,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥[DynamicLLaVA] [ICLR2025] Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification (@ECNU, Xiaohongshu) [pdf] [DynamicLLaVA] ⭐️⭐️",
+              "title": "[DynamicLLaVA]",
+              "description": "🔥[DynamicLLaVA] [ICLR2025] Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification (@ECNU, Xiaohongshu) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2362,8 +2362,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.05",
-              "description": "🔥[KVzip] KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction (@SNU) [pdf] [KVzip] ⭐️⭐️",
+              "title": "[KVzip]",
+              "description": "🔥[KVzip] KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction (@SNU) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2414,8 +2414,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023.04",
-              "description": "🔥[Selective-Context] Compressing Context to Enhance Inference Efficiency of Large Language Models(@Surrey) [pdf] Selective-Context ⭐️⭐️",
+              "title": "Selective-Context",
+              "description": "🔥[Selective-Context] Compressing Context to Enhance Inference Efficiency of Large Language Models(@Surrey) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2429,8 +2429,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.05",
-              "description": "[AutoCompressor] Adapting Language Models to Compress Contextss(@Princeton) [pdf] AutoCompressor ⭐️",
+              "title": "AutoCompressor",
+              "description": "[AutoCompressor] Adapting Language Models to Compress Contextss(@Princeton) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2444,8 +2444,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥[LLMLingua] LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models(@Microsoft) [pdf] LLMLingua ⭐️⭐️",
+              "title": "LLMLingua",
+              "description": "🔥[LLMLingua] LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models(@Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2454,13 +2454,13 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6602
+                "stars": 6604
               }
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥🔥[LongLLMLingua] LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression(@Microsoft) [pdf] LLMLingua ⭐️⭐️",
+              "title": "LLMLingua",
+              "description": "🔥🔥[LongLLMLingua] LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression(@Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2469,13 +2469,13 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6602
+                "stars": 6604
               }
             },
             {
               "node_type": "item",
-              "title": "2024.03",
-              "description": "🔥[LLMLingua-2] LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression(@Microsoft) [pdf] LLMLingua series ⭐️",
+              "title": "LLMLingua series",
+              "description": "🔥[LLMLingua-2] LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression(@Microsoft) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2484,13 +2484,13 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6602
+                "stars": 6604
               }
             },
             {
               "node_type": "item",
-              "title": "2024.09",
-              "description": "🔥🔥[CRITIPREFILL] CRITIPREFILL: A SEGMENT-WISE CRITICALITYBASED APPROACH FOR PREFILLING ACCELERATION IN LLMS(@OPPO) [pdf] CritiPrefill ⭐️",
+              "title": "CritiPrefill",
+              "description": "🔥🔥[CRITIPREFILL] CRITIPREFILL: A SEGMENT-WISE CRITICALITYBASED APPROACH FOR PREFILLING ACCELERATION IN LLMS(@OPPO) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2504,8 +2504,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.10",
-              "description": "🔥🔥[KV-COMPRESS] PAGED KV-CACHE COMPRESSION WITH VARIABLE COMPRESSION RATES PER ATTENTION HEAD(@Cloudflare, inc.) [pdf] vllm-kvcompress ⭐️⭐️",
+              "title": "vllm-kvcompress",
+              "description": "🔥🔥[KV-COMPRESS] PAGED KV-CACHE COMPRESSION WITH VARIABLE COMPRESSION RATES PER ATTENTION HEAD(@Cloudflare, inc.) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2526,8 +2526,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023.05",
-              "description": "🔥[Landmark Attention] Random-Access Infinite Context Length for Transformers(@epfl.ch) [pdf] landmark-attention ⭐️⭐️",
+              "title": "landmark-attention",
+              "description": "🔥[Landmark Attention] Random-Access Infinite Context Length for Transformers(@epfl.ch) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2541,8 +2541,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.07",
-              "description": "🔥[LightningAttention-1] TRANSNORMERLLM: A FASTER AND BETTER LARGE LANGUAGE MODEL WITH IMPROVED TRANSNORMER(@OpenNLPLab) [pdf] TransnormerLLM ⭐️⭐️",
+              "title": "TransnormerLLM",
+              "description": "🔥[LightningAttention-1] TRANSNORMERLLM: A FASTER AND BETTER LARGE LANGUAGE MODEL WITH IMPROVED TRANSNORMER(@OpenNLPLab) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2556,8 +2556,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.07",
-              "description": "🔥[LightningAttention-2] Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models(@OpenNLPLab) [pdf] lightning-attention ⭐️⭐️",
+              "title": "lightning-attention",
+              "description": "🔥[LightningAttention-2] Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models(@OpenNLPLab) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2571,8 +2571,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥🔥[RingAttention] Ring Attention with Blockwise Transformers for Near-Infinite Context(@UC Berkeley) [pdf] [RingAttention] ⭐️⭐️",
+              "title": "[RingAttention]",
+              "description": "🔥🔥[RingAttention] Ring Attention with Blockwise Transformers for Near-Infinite Context(@UC Berkeley) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2586,8 +2586,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.11",
-              "description": "🔥[HyperAttention] HyperAttention: Long-context Attention in Near-Linear Time(@yale&Google) [pdf] hyper-attn ⭐️⭐️",
+              "title": "hyper-attn",
+              "description": "🔥[HyperAttention] HyperAttention: Long-context Attention in Near-Linear Time(@yale&Google) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2601,8 +2601,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.11",
-              "description": "🔥🔥[StripedAttention] STRIPED ATTENTION: FASTER RING ATTENTION FOR CAUSAL TRANSFORMERS(@MIT etc) [pdf] [striped_attention] ⭐️⭐️",
+              "title": "[striped_attention]",
+              "description": "🔥🔥[StripedAttention] STRIPED ATTENTION: FASTER RING ATTENTION FOR CAUSAL TRANSFORMERS(@MIT etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2616,8 +2616,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.01",
-              "description": "🔥🔥[KVQuant] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization(@UC Berkeley) [pdf] [KVQuant] ⭐️⭐️",
+              "title": "[KVQuant]",
+              "description": "🔥🔥[KVQuant] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization(@UC Berkeley) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2631,8 +2631,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.04",
-              "description": "🔥[HOMER] Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs(@KAIST) [pdf] [HOMER] ⭐️⭐️",
+              "title": "[HOMER]",
+              "description": "🔥[HOMER] Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs(@KAIST) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2646,8 +2646,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥🔥[YOCO] You Only Cache Once: Decoder-Decoder Architectures for Language Models(@Microsoft) [pdf] [unilm-YOCO] ⭐️⭐️",
+              "title": "[unilm-YOCO]",
+              "description": "🔥🔥[YOCO] You Only Cache Once: Decoder-Decoder Architectures for Language Models(@Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2661,8 +2661,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.06",
-              "description": "🔥[LOOK-M] LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference(@osu.edu etc) [pdf] [LOOK-M] ⭐️⭐️",
+              "title": "[LOOK-M]",
+              "description": "🔥[LOOK-M] LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference(@osu.edu etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2676,8 +2676,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.06",
-              "description": "🔥🔥[MInference] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft etc) [pdf] [MInference] ⭐️⭐️",
+              "title": "[MInference]",
+              "description": "🔥🔥[MInference] MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention(@Microsoft etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2691,8 +2691,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.06",
-              "description": "🔥🔥[Quest] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference(@mit-han-lab etc) [pdf] [Quest] ⭐️⭐️",
+              "title": "[Quest]",
+              "description": "🔥🔥[Quest] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference(@mit-han-lab etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2706,8 +2706,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.10",
-              "description": "🔥[ShadowKV] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference(@CMU & bytedance) [pdf] [ShadowKV] ⭐️⭐️",
+              "title": "[ShadowKV]",
+              "description": "🔥[ShadowKV] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference(@CMU & bytedance) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2721,8 +2721,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.01",
-              "description": "🔥🔥🔥 [Lightning Attention] MiniMax-01: Scaling Foundation Models with Lightning Attention [report] [MiniMax-01] ⭐️⭐️",
+              "title": "[MiniMax-01]",
+              "description": "🔥🔥🔥 [Lightning Attention] MiniMax-01: Scaling Foundation Models with Lightning Attention [report] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2743,8 +2743,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2020.04",
-              "description": "[FastBERT] FastBERT: a Self-distilling BERT with Adaptive Inference Time(@PKU) [pdf] [FastBERT] ⭐️",
+              "title": "[FastBERT]",
+              "description": "[FastBERT] FastBERT: a Self-distilling BERT with Adaptive Inference Time(@PKU) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2758,8 +2758,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021.06",
-              "description": "[BERxiT] BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression(@uwaterloo.ca) [pdf] [berxit] ⭐️",
+              "title": "[berxit]",
+              "description": "[BERxiT] BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression(@uwaterloo.ca) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2773,8 +2773,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "🔥🔥[EE-LLM] EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism(@alibaba-inc.com) [pdf] [EE-LLM] ⭐️⭐️",
+              "title": "[EE-LLM]",
+              "description": "🔥🔥[EE-LLM] EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism(@alibaba-inc.com) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2788,8 +2788,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.10",
-              "description": "🔥[FREE] Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding(@KAIST AI&AWS AI) [pdf] [fast_robust_early_exit] ⭐️⭐️",
+              "title": "[fast_robust_early_exit]",
+              "description": "🔥[FREE] Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding(@KAIST AI&AWS AI) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2803,8 +2803,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.02",
-              "description": "🔥[EE-Tuning] EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models(@alibaba-inc.com) [pdf] [EE-Tuning] ⭐️⭐️",
+              "title": "[EE-Tuning]",
+              "description": "🔥[EE-Tuning] EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models(@alibaba-inc.com) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2825,8 +2825,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023.05",
-              "description": "🔥[Speculative Sampling] Fast Inference from Transformers via Speculative Decoding(@Google Research etc) [pdf] [LLMSpeculativeSampling] ⭐️⭐️",
+              "title": "[LLMSpeculativeSampling]",
+              "description": "🔥[Speculative Sampling] Fast Inference from Transformers via Speculative Decoding(@Google Research etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2835,13 +2835,13 @@
                 "last_commit": "2024-08-22T03:34:29Z",
                 "owner": "feifeibear",
                 "repo": "LLMSpeculativeSampling",
-                "stars": 923
+                "stars": 924
               }
             },
             {
               "node_type": "item",
-              "title": "2023.09",
-              "description": "🔥[Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads(@Tianle Cai etc) [pdf] [Medusa] ⭐️⭐️",
+              "title": "[Medusa]",
+              "description": "🔥[Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads(@Tianle Cai etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2855,8 +2855,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.02",
-              "description": "🔥[LookaheadDecoding] Break the Sequential Dependency of LLM Inference Using LOOKAHEAD DECODING(@UCSD&Google&UC Berkeley) [pdf] [LookaheadDecoding] ⭐️⭐️",
+              "title": "[LookaheadDecoding]",
+              "description": "🔥[LookaheadDecoding] Break the Sequential Dependency of LLM Inference Using LOOKAHEAD DECODING(@UCSD&Google&UC Berkeley) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2870,8 +2870,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.02",
-              "description": "🔥🔥[Speculative Decoding] Decoding Speculative Decoding(@cs.wisc.edu) [pdf] Decoding Speculative Decoding ⭐️",
+              "title": "Decoding Speculative Decoding",
+              "description": "🔥🔥[Speculative Decoding] Decoding Speculative Decoding(@cs.wisc.edu) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2885,8 +2885,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.04",
-              "description": "🔥🔥[TriForce] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(@cmu.edu&Meta AI) [pdf] [TriForce] ⭐️⭐️",
+              "title": "[TriForce]",
+              "description": "🔥🔥[TriForce] TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(@cmu.edu&Meta AI) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2900,8 +2900,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥[Instructive Decoding] INSTRUCTIVE DECODING: INSTRUCTION-TUNED LARGE LANGUAGE MODELS ARE SELF-REFINER FROM NOISY INSTRUCTIONS(@KAIST AI) [pdf] [Instructive-Decoding] ⭐️",
+              "title": "[Instructive-Decoding]",
+              "description": "🔥[Instructive Decoding] INSTRUCTIVE DECODING: INSTRUCTION-TUNED LARGE LANGUAGE MODELS ARE SELF-REFINER FROM NOISY INSTRUCTIONS(@KAIST AI) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2915,8 +2915,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.08",
-              "description": "🔥[Speculative Decoding] Parallel Speculative Decoding with Adaptive Draft Length(@USTC etc) [pdf] [PEARL] ⭐️⭐️",
+              "title": "[PEARL]",
+              "description": "🔥[Speculative Decoding] Parallel Speculative Decoding with Adaptive Draft Length(@USTC etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2930,8 +2930,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.08",
-              "description": "🔥[FocusLLM] FocusLLM: Scaling LLM’s Context by Parallel Decoding(@Tsinghua University etc) [pdf] [FocusLLM] ⭐️",
+              "title": "[FocusLLM]",
+              "description": "🔥[FocusLLM] FocusLLM: Scaling LLM’s Context by Parallel Decoding(@Tsinghua University etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2945,8 +2945,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.08",
-              "description": "🔥[MagicDec] MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding(@CMU etc) [pdf] [MagicDec] ⭐️",
+              "title": "[MagicDec]",
+              "description": "🔥[MagicDec] MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding(@CMU etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2960,8 +2960,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026.03",
-              "description": "🔥🔥[MineDraft] MineDraft: A Framework for Batch Parallel Speculative Decoding(@NUS & MIT) [pdf] [MineDraft] ⭐️⭐️",
+              "title": "[MineDraft]",
+              "description": "🔥🔥[MineDraft] MineDraft: A Framework for Batch Parallel Speculative Decoding(@NUS & MIT) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2975,8 +2975,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026.04",
-              "description": "🔥🔥[DIVERSED] DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification(@Purdue & Amazon etc) [pdf] [diversed] ⭐️⭐️",
+              "title": "[diversed]",
+              "description": "🔥🔥[DIVERSED] DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification(@Purdue & Amazon etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2997,8 +2997,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "[FLAP] Fluctuation-based Adaptive Structured Pruning for Large Language Models(@Chinese Academy of Sciences etc) [pdf] [FLAP] ⭐️⭐️",
+              "title": "[FLAP]",
+              "description": "[FLAP] Fluctuation-based Adaptive Structured Pruning for Large Language Models(@Chinese Academy of Sciences etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3012,8 +3012,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "🔥[LASER] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction(@mit.edu) [pdf] [laser] ⭐️⭐️",
+              "title": "[laser]",
+              "description": "🔥[LASER] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction(@mit.edu) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3027,8 +3027,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "[PowerInfer] PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU(@SJTU) [pdf] [PowerInfer] ⭐️",
+              "title": "[PowerInfer]",
+              "description": "[PowerInfer] PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU(@SJTU) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3037,13 +3037,13 @@
                 "last_commit": "2026-05-11T06:48:06Z",
                 "owner": "Tiiny-AI",
                 "repo": "PowerInfer",
-                "stars": 9741
+                "stars": 9743
               }
             },
             {
               "node_type": "item",
-              "title": "2024.01",
-              "description": "[Admm Pruning] Fast and Optimal Weight Update for Pruned Large Language Models(@fmph.uniba.sk) [pdf] [admm-pruning] ⭐️",
+              "title": "[admm-pruning]",
+              "description": "[Admm Pruning] Fast and Optimal Weight Update for Pruned Large Language Models(@fmph.uniba.sk) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3057,8 +3057,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.03",
-              "description": "🔥[Simba] Sparsified State-Space Models are Efficient Highway Networks(@KAIST) [pdf] [Simba] ⭐️",
+              "title": "[Simba]",
+              "description": "🔥[Simba] Sparsified State-Space Models are Efficient Highway Networks(@KAIST) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3072,8 +3072,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.06",
-              "description": "[SDMPrune] SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models (@CSU) [pdf] [SDMPrune] ⭐️⭐️",
+              "title": "[SDMPrune]",
+              "description": "[SDMPrune] SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models (@CSU) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3087,8 +3087,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026.03",
-              "description": "[HFPrune] High-Fidelity Pruning for Large Language Models (@CSU) [pdf] [HFPrune] ⭐️⭐️",
+              "title": "[HFPrune]",
+              "description": "[HFPrune] High-Fidelity Pruning for Large Language Models (@CSU) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3109,8 +3109,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2022.11",
-              "description": "🔥[WINT8/4] Who Says Elephants Can’t Run: Bringing Large Scale MoE Models into Cloud Scale Production(@NVIDIA&Microsoft) [pdf] [FasterTransformer] ⭐️⭐️",
+              "title": "[FasterTransformer]",
+              "description": "🔥[WINT8/4] Who Says Elephants Can’t Run: Bringing Large Scale MoE Models into Cloud Scale Production(@NVIDIA&Microsoft) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3124,8 +3124,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "🔥 [Mixtral Offloading] Fast Inference of Mixture-of-Experts Language Models with Offloading(@Moscow Institute of Physics and Technology etc) [pdf] [mixtral-offloading] ⭐️⭐️",
+              "title": "[mixtral-offloading]",
+              "description": "🔥 [Mixtral Offloading] Fast Inference of Mixture-of-Experts Language Models with Offloading(@Moscow Institute of Physics and Technology etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3139,8 +3139,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.05",
-              "description": "🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI) [pdf] [DeepSeek-V2] ⭐️⭐️",
+              "title": "[DeepSeek-V2]",
+              "description": "🔥🔥🔥[DeepSeek-V2] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model(@DeepSeek-AI) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3161,8 +3161,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023.03",
-              "description": "[FlexGen] High-Throughput Generative Inference of Large Language Models with a Single GPU(@Stanford University etc) [pdf] [FlexGen] ⭐️",
+              "title": "[FlexGen]",
+              "description": "[FlexGen] High-Throughput Generative Inference of Large Language Models with a Single GPU(@Stanford University etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3176,8 +3176,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.11",
-              "description": "[LLM CPU Inference] Efficient LLM Inference on CPUs(@intel) [pdf] [intel-extension-for-transformers] ⭐️",
+              "title": "[intel-extension-for-transformers]",
+              "description": "[LLM CPU Inference] Efficient LLM Inference on CPUs(@intel) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3191,8 +3191,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥🔥[xFasterTransformer] Inference Performance Optimization for Large Language Models on CPUs(@Intel) [pdf] [xFasterTransformer] ⭐️",
+              "title": "[xFasterTransformer]",
+              "description": "🔥🔥[xFasterTransformer] Inference Performance Optimization for Large Language Models on CPUs(@Intel) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3206,8 +3206,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.12",
-              "description": "🔥🔥[NITRO] NITRO: LLM INFERENCE ON INTEL® LAPTOP NPUS(@cornell.edu) [pdf] [nitro] ⭐️",
+              "title": "[nitro]",
+              "description": "🔥🔥[NITRO] NITRO: LLM INFERENCE ON INTEL® LAPTOP NPUS(@cornell.edu) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3221,8 +3221,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.01",
-              "description": "📱[Off Grid] On-device LLM + Vision + Image Gen for iOS & Android(@alichherawalla) [github] [off-grid-mobile] ⭐️",
+              "title": "off-grid-ai/OGAM",
+              "description": "📱[Off Grid] On-device LLM + Vision + Image Gen for iOS & Android(@alichherawalla) [off-grid-mobile] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3231,13 +3231,13 @@
                 "last_commit": "2026-08-24T16:44:50Z",
                 "owner": "off-grid-ai",
                 "repo": "OGAM",
-                "stars": 2991
+                "stars": 2992
               }
             },
             {
               "node_type": "item",
-              "title": "2025.12",
-              "description": "🔥[Grail-V/PSE] Non-bijunctive Attention Collapse via POWER8 vec_perm — 8.8x CPU Inference Speedup(@Elyan Labs) [zenodo] [ram-coffers] ⭐️",
+              "title": "[ram-coffers]",
+              "description": "🔥[Grail-V/PSE] Non-bijunctive Attention Collapse via POWER8 vec_perm — 8.8x CPU Inference Speedup(@Elyan Labs) [zenodo] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3251,8 +3251,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.12",
-              "description": "🔥[llama-cpp-power8] POWER8 optimizations for llama.cpp: vec_perm non-bijunctive collapse, IBM MASS integration, dcbt resident prefetch. 8.8x speedup over stock(@Scottcjn) [github] [llama-cpp-power8] ⭐️",
+              "title": "Scottcjn/llama-cpp-power8",
+              "description": "🔥[llama-cpp-power8] POWER8 optimizations for llama.cpp: vec_perm non-bijunctive collapse, IBM MASS integration, dcbt resident prefetch. 8.8x speedup over stock(@Scottcjn) [llama-cpp-power8] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3266,8 +3266,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.12",
-              "description": "🔥[RAM Coffers] NUMA-aware weight banking for LLM inference. Maps brain hemisphere cognitive functions to NUMA topology for intelligent routing and selective prefetch(@Scottcjn) [github] [ram-coffers] ⭐️",
+              "title": "Scottcjn/ram-coffers",
+              "description": "🔥[RAM Coffers] NUMA-aware weight banking for LLM inference. Maps brain hemisphere cognitive functions to NUMA topology for intelligent routing and selective prefetch(@Scottcjn) [ram-coffers] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3288,8 +3288,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023.05",
-              "description": "🔥🔥[RWKV] RWKV: Reinventing RNNs for the Transformer Era(@Bo Peng etc) [pdf] [RWKV-LM] ⭐️⭐️",
+              "title": "[RWKV-LM]",
+              "description": "🔥🔥[RWKV] RWKV: Reinventing RNNs for the Transformer Era(@Bo Peng etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3303,8 +3303,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.12",
-              "description": "🔥🔥[Mamba] Mamba: Linear-Time Sequence Modeling with Selective State Spaces(@cs.cmu.edu etc) [pdf] [mamba] ⭐️⭐️",
+              "title": "[mamba]",
+              "description": "🔥🔥[Mamba] Mamba: Linear-Time Sequence Modeling with Selective State Spaces(@cs.cmu.edu etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3313,13 +3313,13 @@
                 "last_commit": "2026-07-22T19:41:12Z",
                 "owner": "state-spaces",
                 "repo": "mamba",
-                "stars": 18777
+                "stars": 18778
               }
             },
             {
               "node_type": "item",
-              "title": "2024.06",
-              "description": "🔥🔥[RWKV-CLIP] RWKV-CLIP: A Robust Vision-Language Representation Learner(@DeepGlint etc) [pdf] [RWKV-CLIP] ⭐️⭐️",
+              "title": "[RWKV-CLIP]",
+              "description": "🔥🔥[RWKV-CLIP] RWKV-CLIP: A Robust Vision-Language Representation Learner(@DeepGlint etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3333,8 +3333,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.08",
-              "description": "🔥🔥[FLA] FLA: A Triton-Based Library for Hardware-Efficient Implementations of Linear Attention Mechanism(@sustcsonglin) [docs] [flash-linear-attention] ⭐️⭐️",
+              "title": "fla-org/flash-linear-attention",
+              "description": "🔥🔥[FLA] FLA: A Triton-Based Library for Hardware-Efficient Implementations of Linear Attention Mechanism(@sustcsonglin) [flash-linear-attention] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3355,8 +3355,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2022.06",
-              "description": "[Microbenchmark] Dissecting Tensor Cores via Microbenchmarks: Latency, Throughput and Numeric Behaviors(@tue.nl etc) [pdf] [DissectingTensorCores] ⭐️",
+              "title": "[DissectingTensorCores]",
+              "description": "[Microbenchmark] Dissecting Tensor Cores via Microbenchmarks: Latency, Throughput and Numeric Behaviors(@tue.nl etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3370,8 +3370,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.08",
-              "description": "🔥[Tensor Cores] Reducing shared memory footprint to leverage high throughput on Tensor Cores and its flexible API extension library(@Tokyo Institute etc) [pdf] [wmma_extension] ⭐️",
+              "title": "[wmma_extension]",
+              "description": "🔥[Tensor Cores] Reducing shared memory footprint to leverage high throughput on Tensor Cores and its flexible API extension library(@Tokyo Institute etc) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3385,8 +3385,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023.03",
-              "description": "🔥🔥[cutlass/cute] Graphene: An IR for Optimized Tensor Computations on GPUs(@NVIDIA) [pdf] [cutlass] ⭐️",
+              "title": "[cutlass]",
+              "description": "🔥🔥[cutlass/cute] Graphene: An IR for Optimized Tensor Computations on GPUs(@NVIDIA) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3395,13 +3395,13 @@
                 "last_commit": "2026-08-20T10:37:54Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10293
+                "stars": 10294
               }
             },
             {
               "node_type": "item",
-              "title": "2024.02",
-              "description": "[QUICK] QUICK: Quantization-aware Interleaving and Conflict-free Kernel for efficient LLM inference(@SqueezeBits Inc) [pdf] [QUICK] ⭐️⭐️",
+              "title": "[QUICK]",
+              "description": "[QUICK] QUICK: Quantization-aware Interleaving and Conflict-free Kernel for efficient LLM inference(@SqueezeBits Inc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3415,8 +3415,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.07",
-              "description": "🔥🔥[flute] Fast Matrix Multiplications for Lookup Table-Quantized LLMs(@mit.edu etc) [pdf] [flute] ⭐️⭐️",
+              "title": "[flute]",
+              "description": "🔥🔥[flute] Fast Matrix Multiplications for Lookup Table-Quantized LLMs(@mit.edu etc) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3430,8 +3430,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.08",
-              "description": "🔥🔥[MARLIN] MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models(@ISTA) [pdf] [marlin] ⭐️⭐️",
+              "title": "[marlin]",
+              "description": "🔥🔥[MARLIN] MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models(@ISTA) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3445,8 +3445,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024.12",
-              "description": "🔥🔥[HADACORE] HADACORE: TENSOR CORE ACCELERATED HADAMARD TRANSFORM KERNEL(@Meta) [pdf] [hadamard_transform] ⭐️",
+              "title": "[hadamard_transform]",
+              "description": "🔥🔥[HADACORE] HADACORE: TENSOR CORE ACCELERATED HADAMARD TRANSFORM KERNEL(@Meta) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3460,8 +3460,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥🔥[TRITONBENCH] TRITONBENCH: Benchmarking Large Language Model Capabilities for Generating Triton Operators(@thunlp) [pdf] [TritonBench] ⭐️⭐️",
+              "title": "[TritonBench]",
+              "description": "🔥🔥[TRITONBENCH] TRITONBENCH: Benchmarking Large Language Model Capabilities for Generating Triton Operators(@thunlp) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3475,8 +3475,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.04",
-              "description": "🔥🔥[Triton-distributed] TileLink: Generating Efficient Compute-Communication Overlapping Kernels using Tile-Centric Primitives(@ByteDance-Seed) [pdf] [Triton-distributed] ⭐️⭐️",
+              "title": "[Triton-distributed]",
+              "description": "🔥🔥[Triton-distributed] TileLink: Generating Efficient Compute-Communication Overlapping Kernels using Tile-Centric Primitives(@ByteDance-Seed) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3497,8 +3497,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2022.10",
-              "description": "[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs(@ByteDance&NVIDIA) [pdf] [ByteTransformer] ⭐️",
+              "title": "[ByteTransformer]",
+              "description": "[ByteTransformer] A High-Performance Transformer Boosted for Variable-Length Inputs(@ByteDance&NVIDIA) [pdf] ⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3512,8 +3512,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025.02",
-              "description": "🔥[DynamicLLaVA] [ICLR2025] Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification (@ECNU, Xiaohongshu) [pdf] [DynamicLLaVA] ⭐️⭐️",
+              "title": "[DynamicLLaVA]",
+              "description": "🔥[DynamicLLaVA] [ICLR2025] Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification (@ECNU, Xiaohongshu) [pdf] ⭐️⭐️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3534,8 +3534,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024.01",
-              "description": "StoryRoute Real-time LLM inference-powered GPS audio tour app — generates personalized travel narratives via live LLM inference calls [app] [storyroute] 🌟",
+              "title": "[storyroute]",
+              "description": "StoryRoute Real-time LLM inference-powered GPS audio tour app — generates personalized travel narratives via live LLM inference calls [app] 🌟",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3557,7 +3557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:09:01.977Z",
+    "last_updated": "2026-08-25T05:47:10.407Z",
     "original_repository": "xlite-dev/Awesome-LLM-Inference",
     "original_repository_id": 683573931,
     "original_repository_sha": "4b1965cc8f8516f266cca2ecead9703d022947e1",
